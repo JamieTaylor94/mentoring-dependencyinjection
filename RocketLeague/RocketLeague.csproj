@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>RocketLeague</AssemblyName>
+    <RootNamespace>RocketLeague</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RocketLeague.Data\RocketLeague.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RocketLeague.Website", "RocketLeague.Website\RocketLeague.Website.csproj", "{C2C05DEA-6F1C-46E6-8BAC-3383C61CA18D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RocketLeague.Data", "RocketLeague.Data\RocketLeague.Data.csproj", "{6367D097-2B94-4E12-9D99-7C74D97861FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RocketLeague", "RocketLeague\RocketLeague.csproj", "{D99173FD-7012-4ABC-A876-72FDAEBD34F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RocketLeague.Tests", "RocketLeague.Tests\RocketLeague.Tests.csproj", "{3FCE28AD-749E-4381-B3F6-4AD23373913E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C05DEA-6F1C-46E6-8BAC-3383C61CA18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C05DEA-6F1C-46E6-8BAC-3383C61CA18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C05DEA-6F1C-46E6-8BAC-3383C61CA18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C05DEA-6F1C-46E6-8BAC-3383C61CA18D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6367D097-2B94-4E12-9D99-7C74D97861FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6367D097-2B94-4E12-9D99-7C74D97861FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6367D097-2B94-4E12-9D99-7C74D97861FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6367D097-2B94-4E12-9D99-7C74D97861FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99173FD-7012-4ABC-A876-72FDAEBD34F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99173FD-7012-4ABC-A876-72FDAEBD34F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99173FD-7012-4ABC-A876-72FDAEBD34F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99173FD-7012-4ABC-A876-72FDAEBD34F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCE28AD-749E-4381-B3F6-4AD23373913E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCE28AD-749E-4381-B3F6-4AD23373913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCE28AD-749E-4381-B3F6-4AD23373913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCE28AD-749E-4381-B3F6-4AD23373913E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20771D28-5209-4F63-95EA-490F62FDCF23}
+	EndGlobalSection
+EndGlobal
