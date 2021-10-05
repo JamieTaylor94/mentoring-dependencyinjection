@@ -2,7 +2,7 @@
 
 ## What is dependency injection?
 
-I've thought about how to best explain DI and after a search online realised I cannot better explain it that this guy (Nick Hodges). At least read the first two articles - the website may not allow you to read the third but it is more important you understand what DI is and the benefits.
+I've thought about how to best explain DI and after a search online realised, I cannot better explain it that this guy (Nick Hodges). At least read the first two articles - the website may not allow you to read the third, but it is more important you understand what DI is and the benefits.
 
 [What is dependency injection?](https://betterprogramming.pub/what-is-dependency-injection-b2671b1ea90a)
 
@@ -24,7 +24,7 @@ Make sure you can answer the following questions:
 - What version of dotnet is being used?
 - Explain the order of events/walk me through it
 
-There is a class *VehicleSerivceTests.cs* that is incomplete that you need to get working. 
+There is a class *VehicleServiceTests.cs* that is incomplete that you need to get working. 
 
 Hints:
 
