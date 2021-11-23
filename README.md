@@ -43,5 +43,3 @@ Why do we use dependency injection?
 
 Insert a link that goes to that file in the repo in your github account.
 
-We will use this as evidence for the D of the SOLID principles.
-
